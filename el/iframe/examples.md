@@ -8,9 +8,10 @@
 
 | Οργανισμός | Ιστοσελίδα | Πώς λειτουργεί |
 |---|---|---|
-| Pilgrim Terrace | [pilgrimterrace.org/donate](https://pilgrimterrace.org/donate) | Κλικ στο "Donate Today" → περιήγηση στη λίστα αναγκών |
-| Swords to Plowshares | [swords-to-plowshares.org](https://www.swords-to-plowshares.org/) | Κλικ στο "Donate Today" → περιήγηση στη λίστα αναγκών |
-| The KSP | [theksp.org/donate-goods](https://www.theksp.org/donate-goods) | Κλικ στο "Donate Today" → περιήγηση στη λίστα αναγκών |
+| Pilgrim Terrace | [pilgrimterrace.org/donate](https://pilgrimterrace.org/donate) | Κλικ στο "Donate Goods" → περιήγηση στη λίστα αναγκών |
+| Swords to Plowshares | [swords-to-plowshares.org](https://www.swords-to-plowshares.org/) | Κλικ στο "Donate Goods" → περιήγηση στη λίστα αναγκών |
+| The KSP | [theksp.org/donate-goods](https://www.theksp.org/donate-goods) | Κλικ στο "Donate Goods" → περιήγηση στη λίστα αναγκών |
+| BOSS | [self-sufficiency.org/donategoods](https://www.self-sufficiency.org/donategoods) | Widget ενσωματωμένο απευθείας στη σελίδα |
 | Rock SF | [rocksf.org/donate](https://rocksf.org/donate/) | Σύνδεσμος στο Προφίλ Givelink |
 | Heart to Art Collective | [hearttoartcollective.org](https://sites.google.com/view/hearttoartcollective/get-involved#h.tfcoiq7bsef0) | Σύνδεσμος στο Προφίλ Givelink |
 
