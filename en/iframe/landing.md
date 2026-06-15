@@ -27,7 +27,6 @@
 | **Squarespace** | 5 min | Beginner | [View Guide →](squarespace.md) |
 | **Wix** | 5 min | Beginner | [View Guide →](wix.md) |
 | **Custom Website** | 10 min | Beginner | [View Guide →](native.md) |
-| **Real-World Examples** | — | — | [View Examples →](examples.md) |
 
 ---
 
