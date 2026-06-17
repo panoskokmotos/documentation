@@ -15,7 +15,7 @@ See how nonprofits are using Givelink to accept in-kind donations on their websi
 | Rock SF | [rocksf.org/donate](https://rocksf.org/donate/) | Link to Givelink Profile |
 | Heart to Art Collective | [hearttoartcollective.org](https://sites.google.com/view/hearttoartcollective/get-involved#h.tfcoiq7bsef0) | Link to Givelink Profile |
 
-> **Rock SF** and **Heart to Art Collective** use the simplest approach: a plain link on their website pointing directly to their Givelink profile page — no embed code required.
+> **Rock SF** and **Heart to Art Collective** use the simplest approach: a plain link on their website pointing directly to their Givelink profile page, with no embed code required.
 
 ---
 

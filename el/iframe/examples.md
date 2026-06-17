@@ -15,7 +15,7 @@
 | Rock SF | [rocksf.org/donate](https://rocksf.org/donate/) | Σύνδεσμος στο Προφίλ Givelink |
 | Heart to Art Collective | [hearttoartcollective.org](https://sites.google.com/view/hearttoartcollective/get-involved#h.tfcoiq7bsef0) | Σύνδεσμος στο Προφίλ Givelink |
 
-> **Το Rock SF** και το **Heart to Art Collective** χρησιμοποιούν την πιο απλή προσέγγιση: έναν απλό σύνδεσμο στην ιστοσελίδα τους που οδηγεί απευθείας στη σελίδα του προφίλ τους στο Givelink — χωρίς κώδικα ενσωμάτωσης.
+> **Το Rock SF** και το **Heart to Art Collective** χρησιμοποιούν την πιο απλή προσέγγιση: έναν απλό σύνδεσμο στην ιστοσελίδα τους που οδηγεί απευθείας στη σελίδα του προφίλ τους στη Givelink, χωρίς κώδικα ενσωμάτωσης.
 
 ---
 
